@@ -1,0 +1,1 @@
+The exercise is two build a function that like the function Math.mini, will return the smallest of two given arguments.
