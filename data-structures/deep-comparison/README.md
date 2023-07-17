@@ -1,0 +1,1 @@
+Create a function that takes in two values and returns true if the two values are the same or false if the two values are not the same. Function should be able to compare primitive values, objects and arrays. 
